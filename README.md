@@ -11,3 +11,4 @@ Apache AirFlow
 # Videos
 
 * https://www.youtube.com/playlist?list=PLlmpIaH7URGUMp0RPqAMQHH9RJ_dEdOeJ
+* https://dataopsunleashed.com/astronomer-session-2021/
